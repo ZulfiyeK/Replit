@@ -6,18 +6,15 @@ public class DikdortgeninAlaniVeCevresi {
 
     /*
     Dikdortgenin alanini ve cevresini hesaplayan java kodunu yaziniz.
+    Ipucu:  Dikdortgenin Cevresi : 2*(A+B);
+            Dikdortgenin Alani : A * B ;
 
-    A=5 B=3
+    */
 
-Ipucu:  Dikdortgenin Cevresi : 2*(A+B);
-        Dikdortgenin Alani : A * B ;
+    int A=8;
+    int B=11;
 
-*/
-
-    int A=5;
-
-    int B=3;
-    System.out.println("Dikdortgenin Cevresi : " + (2*(A+B)));
+     System.out.println("Dikdortgenin Cevresi : " + (2*(A+B)));
      System.out.println("Dikdortgenin Alani : " + (A * B));
 
 
