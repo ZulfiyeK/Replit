@@ -4,13 +4,8 @@ public class DaireninAlani {
     public static void main(String[] args) {
  /*
         Pi=3.14
-
     Dairenin Cevresi : 2*Pi*r
-
     Dairenin Alani : Pi*r*r
-
-    Ornek Cikti:  Cevresi : 43.96  ,  Alani: 153.86
-
 
   */
 
@@ -19,10 +14,6 @@ public class DaireninAlani {
 
         System.out.println("Dairenin Cevresi : " + 2*Pi*r);
         System.out.println("Dairenin Alani : " + Pi*r*r);
-
-
-
-
 
     }
 }
