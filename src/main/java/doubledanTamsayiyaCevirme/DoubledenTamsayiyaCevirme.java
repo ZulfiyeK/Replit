@@ -1,7 +1,4 @@
-package doubledenTamsayiyaCevirme;
-
-import java.sql.SQLIntegrityConstraintViolationException;
-import java.util.Scanner;
+package doubledanTamsayiyaCevirme;
 
 public class DoubledenTamsayiyaCevirme {
     public static void main(String[] args) {
