@@ -1,4 +1,4 @@
-package daireninAlani;
+package alanHesaplama;
 
 public class DaireninAlani {
     public static void main(String[] args) {

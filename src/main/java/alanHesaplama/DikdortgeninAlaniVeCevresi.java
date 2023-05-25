@@ -1,4 +1,4 @@
-package dikdortgeninAlaniVeCevresi;
+package alanHesaplama;
 
 public class DikdortgeninAlaniVeCevresi {
 
