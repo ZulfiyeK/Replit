@@ -3,7 +3,7 @@ package doubledanTamsayiyaCevirme;
 public class DoubledenTamsayiyaCevirme {
     public static void main(String[] args) {
 
-//G Verilen DOUBLE sayıyı tam sayıya çeviren bir kod yazınız.
+        // Verilen DOUBLE sayıyı tam sayıya çeviren bir kod yazınız.
         //Ornek 1
 
         double num = 115.32;
